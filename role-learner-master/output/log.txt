@@ -1,0 +1,6 @@
+output/output
+Test symbolic MSE loss: 0.008466397412121296
+Test symbolic loss: 0.008466397412121296
+Test one hot loss: 0.0
+Test unique role loss: 0.0
+Test l2 norm loss: 0.0
